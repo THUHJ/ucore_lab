@@ -1,0 +1,9 @@
+!SESSION 2015-03-29 15:49:21.613 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/moocos/os/ucore_lab/labcodes -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-29 15:50:19.722
+!MESSAGE Indexed 'lab1' (17 sources, 60 headers) in 7.88 sec: 2,022 declarations; 3,978 references; 0 unresolved inclusions; 12 syntax errors; 32 unresolved names (0.53%)

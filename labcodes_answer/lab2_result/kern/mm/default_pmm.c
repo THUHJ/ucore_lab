@@ -92,6 +92,7 @@ default_alloc_pages(size_t n) {
     le = &free_list;
 
     while((le=list_next(le)) != &free_list) {
+
       struct Page *p = le2page(le, page_link);
       if(p->property >= n){
         int i;
